@@ -39,7 +39,7 @@ For this feature to work you need to:
 - Add `enable_object_processing: True` to the `[file_manager]` section in your moonraker.conf file.
   Alternatively you can configure [object preprocessing for your slicer](https://github.com/kageurufu/preprocess_cancellation).
 
-This feature only works on files that were uploaded _after_ these configuration changes as the file needs to be processed by mooraker with this option turned on.
+This feature only works on files that were uploaded _after_ these configuration changes as the file needs to be processed by moonraker with this option turned on.
 
 ![screenshot](/assets/images/exclude_object.png)
 ![screenshot](/assets/images/exclude_object_modal.png)
